@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "\"primera preentrega comicion 55265\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arquidamo/55265-primera-entrega-Arquidamo-de-Esparta.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "\"Arquidamo de Esparta\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arquidamo/55265-primera-entrega-Arquidamo-de-Esparta/issues"
+  },
+  "homepage": "https://github.com/Arquidamo/55265-primera-entrega-Arquidamo-de-Esparta#readme"
+}
